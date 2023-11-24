@@ -74,10 +74,10 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 
 <h2> Links </h2>
 
-<p> Links úteis para tirar dúvidas: </p>
- - <a href="CódigoSensor.c++"> Código do Sensor de Temperatura </a>
+Links úteis para tirar dúvidas: 
+- <a href="CódigoSensor.c++"> Código do Sensor de Temperatura </a>
 <br>
- - <a href=""> Vídeo Explicativo </a>
+- <a href=""> Vídeo Explicativo </a>
 
 <h2> Funcionamento  </h2>
 1. Conecte os sensores e LEDs conforme o esquema. <br>
