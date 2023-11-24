@@ -12,16 +12,22 @@
         <table>
           <tr>
             <th>Alunos:</th>
-            <tr>
+          </tr>
+          <tr>
+            <th>Giovanna Franco Gaudino Rodrigues</th>
+          </tr>
+          <tr>
+            <th>André Luiz Viana Ribeiro</th>
+          </tr>
+          <tr>
             <th>Beatriz Dantas Sampaio</th>
-            </tr>
-            <tr>
+          </tr>
+          <tr>
             <th>Lucas Bertolassi Iori</th>
           </tr>
-          </tr>
-          
         </table>
-      </div>
+
+  </div>
     </td>
     <td>
       <div>
