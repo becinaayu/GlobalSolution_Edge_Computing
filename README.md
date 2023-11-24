@@ -12,7 +12,9 @@
         <table>
           <tr>
             <th>Alunos:</th>
+            <tr>
             <th>Beatriz Dantas Sampaio</th>
+            </tr>
             <tr>
             <th>Lucas Bertolassi Iori</th>
           </tr>
