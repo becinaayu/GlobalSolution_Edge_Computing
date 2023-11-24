@@ -76,7 +76,7 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 
 Links úteis para tirar dúvidas: 
 - <a href="CódigoSensor.c++"> Código do Sensor de Temperatura </a>
-<br>
+
 - <a href=""> Vídeo Explicativo </a>
 
 <h2> Funcionamento  </h2>
