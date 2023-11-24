@@ -42,30 +42,8 @@
 
 <div align="left">
 
-<b> - Tabela com o hardware do circuito completo </b>
-
-| Quantidade | Descrição                   |
-| ---------- | ----------------------------- |
-| 1          | Arduino Uno R3                |
-| 1          | Vermelho LED                  |
-| 1          | Sensor de temperatura [TMP36] |
-| 4          | 220 Ω Resistor                |
-| 1          | Amarelo LED                   |
-| 1          | Verde LED                     |
-| 1          | Fotorresistor                 |
-| 1          | Speaker                       |
-| 1          | 250 kΩ Potenciômetro          |
-
-</div>
-
----
-
-<img height="385em" src="https://github.com/Ctrl-Alt-Challenge/CP01-EDCS/assets/110347145/e4274581-4f64-477f-996e-24cc1f8d228c" alt="Circuito" align="right">
-
-
-<div align="left">
-
 <b> - Tabela com o hardware do circuito de medição de temperatura com o LDR </b>
+
 
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
@@ -81,8 +59,9 @@
 | 1          | Sensor de Temperatura (TMP36) |
 | 1          | Potenciômetro                 |
 
-
 </div>
+
+---
 
 <h2> Configuração </h2>
 
