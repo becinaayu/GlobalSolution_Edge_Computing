@@ -33,7 +33,7 @@
 </table>
 
 <h2> Hardware </h2>
-<img height="390em" src="CircuitoSensor.png" alt="Circuito" align="right">
+<img height="390em" src="CircuitoSensor.png" alt="Circuito" align="center">
  <br>
 <div align="center">
 
