@@ -83,7 +83,7 @@ Links úteis para tirar dúvidas:
 1. Conecte os sensores e LEDs conforme o esquema. <br>
 2. Conecte o Arduino. <br>
 3. Carregue o código no Arduino usando a IDE. <br>
-4. Observe as luzes dos LEDs e o som do buzzer de acordo com as condições. <br>
+4. Observe as luzes dos LEDs e o LCD de acordo com as condições. <br>
 
 <br>
 
