@@ -72,8 +72,9 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 
 <a href="https://www.arduino.cc/en/software"> Arduino IDE </a>
 
-<h2> Link para o código </h2>
+<h2> Links </h2>
 <a href="CódigoSensor.c++"> Código do Sensor de Temperatura </a>
+<a href=""> Vídeo Explicativo </a>
 
 <h2> Funcionamento  </h2>
 1. Conecte os sensores e LEDs conforme o esquema. <br>
