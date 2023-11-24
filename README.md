@@ -12,33 +12,25 @@
         <table>
           <tr>
             <th>Alunos:</th>
-          </tr>
-          <tr>
-            <th>Giovanna Franco Gaudino Rodrigues</th>
-          </tr>
-          <tr>
-            <th>André Luiz Viana Ribeiro</th>
-          </tr>
-          <tr>
             <th>Beatriz Dantas Sampaio</th>
           </tr>
           <tr>
-            <th>Isabela Barcellos Freire</th>
+            <th>Lucas Bertolassi Iori</th>
           </tr>
         </table>
       </div>
     </td>
     <td>
       <div>
-        <b>Checkpoint 01 <br> Edge Computing & Computer Systems</b>
-      <td> <b>Objetivo → <br> Medir a luz, temperatura e umidade do ambiente da Vinheria Agnello</b> </td>
+        <b>Global Solution <br> Edge Computing & Computer Systems</b>
+      <td> <b>Objetivo → <br> Medir a temperatura em pacientes internados no hospital</b> </td>
       </div>
     </td>
   </tr>
 </table>
 
 <h2> Hardware </h2>
-<img height="390em" src="https://github.com/Ctrl-Alt-Challenge/CP01-EDCS/assets/110347145/7e29fb77-afb5-4c96-ae84-576aa0cb1025" alt="Circuito" align="right">
+<img height="390em" src="CircuitoSensor.png" alt="Circuito" align="right">
 
 <div align="left">
 
@@ -66,7 +58,7 @@
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte as imagens abaixo:
-- <a href="Circuito-Completo/circuito-completo.png"> Circuito completo </a>
+- <a href="CircuitoSensor.png"> Circuito completo </a>
 
 
 <h2> Software </h2>
@@ -76,7 +68,7 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 <a href="https://www.arduino.cc/en/software"> Arduino IDE </a>
 
 <h2> Link para o código </h2>
-<a href="https://www.arduino.cc/en/software"> Código do Sensor de Temperatura </a>
+<a href="CódigoSensor.c++"> Código do Sensor de Temperatura </a>
 
 <h2> Funcionamento  </h2>
 1. Conecte os sensores e LEDs conforme o esquema. <br>
