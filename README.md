@@ -35,7 +35,7 @@
 <h2> Hardware </h2>
 <img height="390em" src="CircuitoSensor.png" alt="Circuito" align="right">
  <br>
-<div align="left">
+<div align="center">
 
 
 
