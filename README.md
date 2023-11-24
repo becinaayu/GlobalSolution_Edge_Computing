@@ -37,6 +37,8 @@
 
 <div align="left">
 
+ <br>
+ 
 <b> - Tabela com o hardware do circuito de medição de temperatura com o LDR </b>
 
 
