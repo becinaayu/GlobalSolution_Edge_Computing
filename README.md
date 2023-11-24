@@ -13,10 +13,11 @@
           <tr>
             <th>Alunos:</th>
             <th>Beatriz Dantas Sampaio</th>
-          </tr>
-          <tr>
+            <tr>
             <th>Lucas Bertolassi Iori</th>
           </tr>
+          </tr>
+          
         </table>
       </div>
     </td>
