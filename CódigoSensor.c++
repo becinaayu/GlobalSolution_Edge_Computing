@@ -30,7 +30,7 @@ void loop()
   lcd.print(int(temp));  
   lcd.print(" oC");
 
-  if (temp < 36)
+  if (temp < 35)
   {
     digitalWrite(vermelho, LOW);
     digitalWrite(amarelo, HIGH);
