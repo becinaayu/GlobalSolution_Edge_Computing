@@ -14,12 +14,6 @@
             <th>Alunos:</th>
           </tr>
           <tr>
-            <th>Giovanna Franco Gaudino Rodrigues</th>
-          </tr>
-          <tr>
-            <th>André Luiz Viana Ribeiro</th>
-          </tr>
-          <tr>
             <th>Beatriz Dantas Sampaio</th>
           </tr>
           <tr>
