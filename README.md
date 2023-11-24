@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Sensor de Monitoramento de Condições Ambientais & Sensor LDR</h1>
+  <h1>Sensor de Monitoramento e Condições de Temperatura </h1>
 </div>
 
 <br>
