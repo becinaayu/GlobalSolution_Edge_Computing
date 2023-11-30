@@ -77,7 +77,7 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 Links úteis para tirar dúvidas: 
 - <a href="CódigoSensor.c++"> Código do Sensor de Temperatura </a>
 
-- <a href="Vídeo Circuito ‐ Feito com o Clipchamp.mp4"> Vídeo Explicativo </a>
+- <a href="Circuito ‐ Feito com o Clipchamp.mp4"> Vídeo Explicativo </a>
 
 - <a href="https://www.tinkercad.com/things/jUcdW5QDdIy-global-solution-sensor-de-temperatura/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Ddesigns&sharecode=-NVC5FdnL1dPa8m1ZldBpTvBWM7Po3RJIQEUdx2sFCM"> Simulação no Tinkercad </a> 
 
