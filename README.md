@@ -26,7 +26,8 @@
     <td>
       <div>
         <b>Global Solution <br> Edge Computing & Computer Systems</b>
-      <td> <b>Objetivo → <br> Medir a temperatura em pacientes internados no hospital</b> </td>
+      <td> <b>Visão geral → <br> A proposta foi em parceria com a Hapvida que nos desafiou a inovar na saúde por meio do uso da tecnologia</b> </td>
+      <td> <b>Solução → <br> Medir a temperatura em pacientes internados no hospital e proporcionar uma melhoria nos processos da saúde</b> </td>
       </div>
     </td>
   </tr>
